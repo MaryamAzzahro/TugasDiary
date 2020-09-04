@@ -1,1 +1,2 @@
 # TugasDiary
+bebas
